@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <color name="font_nosotros">#818182</color>
+   <color name="line_main_color">#4faade</color>
+    <color name="back_main">#ebebeb</color>
+    <color name="white_color">#FFFFFF</color>
+    
+</resources>

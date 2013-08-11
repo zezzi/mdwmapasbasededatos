@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_name">Restaurantes Express</string>
+  <string name="menu_listado">Listado</string>
+  <string name="about_us_menu">Sobre Nosotros</string>
+  <string name="sobre_nosotros">Somos un app de restaurantes que te trae lo ultimo de ofertas y restaurantes del area.</string>
+  <string name="contactenosimagedescrip">Logo de Restaurantes</string>
+<string name="logo_descrip">logo</string>
+</resources>
